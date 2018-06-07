@@ -2,14 +2,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1528394203992,
             "changeTime": 1528394203992,
             "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1528394203994,
             "changeTime": 1528394203994,
             "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1528394203989,
             "changeTime": 1528394203989,
             "contentHash": "8b92530e51e1a0c914754202c5c72d69956edcea",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -51,12 +51,11 @@
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1528393836411,
-            "changeTime": 1528393836411,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "size": 224,
+            "modifiedTime": 1528395048349,
+            "changeTime": 1528395048349,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -76,14 +75,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1528380079456,
             "changeTime": 1528380079456,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -91,14 +90,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1528380079470,
             "changeTime": 1528380079470,
             "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -106,14 +105,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1528380079476,
             "changeTime": 1528380079476,
             "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -121,14 +120,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1528380079482,
             "changeTime": 1528380079482,
             "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -136,14 +135,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1528380079486,
             "changeTime": 1528380079486,
             "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -151,14 +150,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1528380079487,
             "changeTime": 1528380079487,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -166,14 +165,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1528380079456,
             "changeTime": 1528380079456,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -181,14 +180,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1528380079455,
             "changeTime": 1528380079455,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -196,14 +195,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1528380079455,
             "changeTime": 1528380079455,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -211,14 +210,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1528380079486,
             "changeTime": 1528380079486,
             "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -226,14 +225,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1528380079487,
             "changeTime": 1528380079487,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -241,14 +240,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1528391201777,
             "changeTime": 1528391201777,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -256,14 +255,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1528391246553,
             "changeTime": 1528391246553,
             "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -271,14 +270,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1528391201777,
             "changeTime": 1528391201777,
             "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -286,14 +285,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1528391532917,
             "changeTime": 1528391532917,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -301,14 +300,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1528391532916,
             "changeTime": 1528391532916,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -316,14 +315,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 203,
             "modifiedTime": 1528394592573,
             "changeTime": 1528394592573,
             "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -331,14 +330,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1528391532913,
             "changeTime": 1528391532913,
             "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -346,14 +345,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 129,
             "modifiedTime": 1528394271459,
             "changeTime": 1528394271459,
             "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -361,14 +360,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1528391532917,
             "changeTime": 1528391532917,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -376,14 +375,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1528391532915,
             "changeTime": 1528391532915,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -391,14 +390,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1528391532914,
             "changeTime": 1528391532914,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -406,14 +405,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1528391532914,
             "changeTime": 1528391532914,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -421,14 +420,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1528391532915,
             "changeTime": 1528391532915,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -436,14 +435,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1528391926349,
             "changeTime": 1528391926349,
             "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -451,14 +450,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17723,
             "modifiedTime": 1528391926364,
             "changeTime": 1528391926364,
             "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -466,14 +465,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4684,
             "modifiedTime": 1528391926367,
             "changeTime": 1528391926367,
             "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -481,14 +480,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4680,
             "modifiedTime": 1528391926369,
             "changeTime": 1528391926369,
             "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -496,14 +495,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5020,
             "modifiedTime": 1528391926372,
             "changeTime": 1528391926372,
             "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -511,14 +510,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1528391926349,
             "changeTime": 1528391926349,
             "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -526,14 +525,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1528391926372,
             "changeTime": 1528391926372,
             "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -541,14 +540,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1528393022559,
             "changeTime": 1528393022559,
             "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -556,14 +555,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1528392948930,
             "changeTime": 1528392948930,
             "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -571,14 +570,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1528393022558,
             "changeTime": 1528393022558,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -590,25 +589,24 @@
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1528394276493,
-            "changeTime": 1528394276493,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
+            "size": 542,
+            "modifiedTime": 1528395139895,
+            "changeTime": 1528395139895,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
         }
     ],
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1528393022552,
             "changeTime": 1528393022552,
             "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -616,14 +614,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1528394277690,
             "changeTime": 1528394277690,
             "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -631,14 +629,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1528393022559,
             "changeTime": 1528393022559,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -646,14 +644,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1528393022557,
             "changeTime": 1528393022557,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -665,25 +663,24 @@
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1528394279280,
-            "changeTime": 1528394279280,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "size": 395,
+            "modifiedTime": 1528395178841,
+            "changeTime": 1528395178841,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1528393022554,
             "changeTime": 1528393022554,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -691,14 +688,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1528393022557,
             "changeTime": 1528393022557,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -706,14 +703,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1528392948930,
             "changeTime": 1528392948930,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -721,14 +718,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 120,
             "modifiedTime": 1528394274545,
             "changeTime": 1528394274545,
             "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -736,14 +733,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1528392948926,
             "changeTime": 1528392948926,
             "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -751,14 +748,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 168,
             "modifiedTime": 1528394275524,
             "changeTime": 1528394275524,
             "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -766,14 +763,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1528392948930,
             "changeTime": 1528392948930,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -781,14 +778,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1528392948929,
             "changeTime": 1528392948929,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -796,14 +793,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1528392948927,
             "changeTime": 1528392948927,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -811,14 +808,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1528392948927,
             "changeTime": 1528392948927,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -826,14 +823,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1528392948928,
             "changeTime": 1528392948928,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -841,14 +838,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 210,
             "modifiedTime": 1528393767735,
             "changeTime": 1528393767735,
             "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -856,14 +853,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1528393767803,
             "changeTime": 1528393767803,
             "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -871,14 +868,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1528393767804,
             "changeTime": 1528393767804,
             "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -886,14 +883,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1528393767804,
             "changeTime": 1528393767804,
             "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -901,14 +898,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1528393767805,
             "changeTime": 1528393767805,
             "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -916,14 +913,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images/marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1528393767806,
             "changeTime": 1528393767806,
             "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -931,14 +928,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 396928,
             "modifiedTime": 1528393767807,
             "changeTime": 1528393767807,
             "contentHash": "4240045cf30725cb9980498fcc2ebf27a2f3c260",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -946,14 +943,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 755043,
             "modifiedTime": 1528393767809,
             "changeTime": 1528393767809,
             "contentHash": "ca31fc870259d8faaa12c2f431906f368ea92791",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -961,14 +958,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14198,
             "modifiedTime": 1528393767810,
             "changeTime": 1528393767810,
             "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -976,14 +973,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 139643,
             "modifiedTime": 1528393767811,
             "changeTime": 1528393767811,
             "contentHash": "997eed0c9cf25113c35b4213569b2323ad7d861e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -991,14 +988,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 190004,
             "modifiedTime": 1528393767812,
             "changeTime": 1528393767812,
             "contentHash": "d94996a1df21dc6283868fdf6c0f1e50358eafea",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1006,14 +1003,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1528394209120,
             "changeTime": 1528394209120,
             "contentHash": "7a75623c9960391b86e2045881a0b5192d46f0f1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1021,14 +1018,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet/images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1528393767806,
             "changeTime": 1528393767806,
             "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1036,14 +1033,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/staticresources/leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1528393767812,
             "changeTime": 1528393767812,
             "contentHash": "ef86d3d12efa4e132890afd141d18f3050a16029",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1051,14 +1048,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1528393836415,
             "changeTime": 1528393836415,
             "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1066,14 +1063,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1528393836415,
             "changeTime": 1528393836415,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1085,25 +1082,24 @@
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1528394712333,
-            "changeTime": 1528394712333,
-            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234",
+            "size": 330,
+            "modifiedTime": 1528395251665,
+            "changeTime": 1528395251665,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
         }
     ],
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1528393836413,
             "changeTime": 1528393836413,
             "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1111,14 +1107,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1528394273496,
             "changeTime": 1528394273496,
             "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1126,14 +1122,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1528393836415,
             "changeTime": 1528393836415,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1141,14 +1137,14 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1528393836414,
             "changeTime": 1528393836414,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1160,25 +1156,24 @@
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 387,
-            "modifiedTime": 1528393865827,
-            "changeTime": 1528393865827,
-            "contentHash": "d9c003312310adfc8ac80ff9005aba9cc7d51056",
+            "size": 830,
+            "modifiedTime": 1528395274687,
+            "changeTime": 1528395274687,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
         }
     ],
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1528393836413,
             "changeTime": 1528393836413,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1186,16 +1181,55 @@
     [
         "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1528393836414,
             "changeTime": 1528393836414,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1528395048350,
+            "changeTime": 1528395048350,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1528395087451,
+            "changeTime": 1528395087451,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dgreen/00_Work/01_Salesforce/sfdx_project/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1528395048350,
+            "changeTime": 1528395048350,
+            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
         }
     ]
 ]
